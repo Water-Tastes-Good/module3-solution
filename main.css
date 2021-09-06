@@ -1,0 +1,41 @@
+body {
+   background-color: rgba(36, 36, 36);   
+   color: white;
+   font-family: 'Didact Gothic', sans-serif;
+}
+
+#header-nav {
+   background-color: rgba(36, 36, 36);
+   outline-style: solid;
+   outline-width: 1px;
+   outline-color: white;
+   border-radius: 0;
+   border: 0;
+}
+
+
+a, a:link, a:visited,a:hover{
+   color: white;
+   text-decoration: none!important;
+   cursor: pointer;
+   font-size: 190%;
+   font-family: 'Didact Gothic', sans-serif;
+}
+
+#title {
+   text-align: center;
+}
+
+#chicken, #beef, #sushi {
+   text-align: center;
+   border-width: small;
+   border-style: solid;
+   margin: 5%;
+
+}
+
+
+#lorem {
+   text-align: left;
+}
+
